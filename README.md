@@ -29,6 +29,7 @@ PCB Layout :
 ![PCB Layout](IMG-20250902-WA0015.jpg)
 
 3D PCB View :
+![PCB Layout](IMG-20250902-WA0019.jpg)
 
 ![3D View](.jpg)
 
