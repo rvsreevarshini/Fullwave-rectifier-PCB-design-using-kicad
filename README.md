@@ -28,7 +28,7 @@ PCB Layout :
 
 3D PCB View :
 
-[3D View](Hardware/3d view.jpg)
+![3D View](Hardware/pcb_3d_view.jpg)
 
 Hardware Implementation :
 
