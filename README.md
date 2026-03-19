@@ -34,12 +34,12 @@ PCB Layout :
 
 Hardware Implementation :
 
-"Hardware Setup" (Hardware/hardware_setup.jpg)
+
 ![PCB Layout](IMG-20251010-WA0004.jpg)
 
 Output Waveform :
 
-![PCB Layout]()
+![PCB Layout](IMG-20251010-WA0005.jpg)
 
 Components Used :
 - Transformer
