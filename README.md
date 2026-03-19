@@ -31,16 +31,15 @@ PCB Layout :
 3D PCB View :
 ![PCB Layout](IMG-20250902-WA0019.jpg)
 
-![3D View](.jpg)
 
 Hardware Implementation :
 
 "Hardware Setup" (Hardware/hardware_setup.jpg)
-![PCB Layout](IMG-20250902-WA0015.jpg)
+![PCB Layout](IMG-20251010-WA0004.jpg)
 
 Output Waveform :
 
-"Oscilloscope Output" (Hardware/oscilloscope_output.jpg)
+![PCB Layout]()
 
 Components Used :
 - Transformer
