@@ -16,8 +16,8 @@ Tools Used :
 
 Circuit Diagram :
 
-"Circuit Diagram" (Hardware/circuit_schematic.png)
 
+![circuit Diagram](IMG-20250902-WA0017.jpg)
 Schematic :
 
 "Schematic" (Hardware/schematic_view.png)
