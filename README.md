@@ -25,16 +25,17 @@ Schematic :
 
 PCB Layout :
 
-"PCB Layout" (Hardware/pcb_layout.png)
+
 ![PCB Layout](IMG-20250902-WA0015.jpg)
 
 3D PCB View :
 
-![3D View](Hardware/pcb_3d_view.jpg)
+![3D View](.jpg)
 
 Hardware Implementation :
 
 "Hardware Setup" (Hardware/hardware_setup.jpg)
+![PCB Layout](IMG-20250902-WA0015.jpg)
 
 Output Waveform :
 
