@@ -20,7 +20,7 @@ Circuit Diagram :
 ![circuit Diagram](IMG-20250902-WA0017.jpg)
 Schematic :
 
-![Schematic Diagram](20250902.jpg)
+![Schematic Diagram](IMG-20250902.jpg)
 
 
 PCB Layout :
