@@ -26,7 +26,7 @@ Schematic :
 PCB Layout :
 
 "PCB Layout" (Hardware/pcb_layout.png)
-![Schematic Diagram](.jpg)
+![PCB Layout](IMG-20250902-WA0015.jpg)
 
 3D PCB View :
 
